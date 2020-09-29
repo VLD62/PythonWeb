@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1697eed0-6570-4167-9a71-7e562012cecb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../django101/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/.idea/django101.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django101/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django101/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django101/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django101/migrations/0002_delete_game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django101/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django101/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django101/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django101/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django101_admin/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django101_admin/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django101_admin/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django101_admin/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django101_admin/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django101_admin/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django101_admin/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django101_admin/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django102/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django102/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django102/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django102/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django102/migrations/0002_game_level_of_difficulty.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django102/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django102/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django102/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django102/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/django102/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/static/css/css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/static/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/static/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/templates/games.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/templates/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django101/templates/shared/base.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1i0TIAJvEreR3PUk1hxjfmAed3S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1697eed0-6570-4167-9a71-7e562012cecb" name="Default Changelist" comment="" />
+      <created>1601043426470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601043426470</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601043999339">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="416" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601043999339" />
+    <state x="741" y="275" key="FileChooserDialogImpl" timestamp="1601044861704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="741" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601044861704" />
+  </component>
+</project>

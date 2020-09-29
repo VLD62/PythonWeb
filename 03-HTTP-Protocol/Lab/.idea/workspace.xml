@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d82b4a7-037e-4437-960a-d5fc9c5f96ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../02-URLs-and-Templates/Lab/urls_and_templates/main_app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02-URLs-and-Templates/Lab/urls_and_templates/secondary_app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02-URLs-and-Templates/Lab/urls_and_templates/templates/main_app/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02-URLs-and-Templates/Lab/urls_and_templates/templates/secondary_app/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01.URL_decode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.Validate_url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/03.Request_parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/.idea/django101.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django101/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django101/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django101/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django101/migrations/0002_delete_game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django101/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django101/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django101/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django101/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django101_admin/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django101_admin/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django101_admin/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django101_admin/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django101_admin/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django101_admin/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django101_admin/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django101_admin/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django102/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django102/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django102/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django102/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django102/migrations/0002_game_level_of_difficulty.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django102/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django102/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django102/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django102/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/django102/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/static/css/css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/static/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/static/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/templates/games.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/templates/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-URLs-and-Templates/django101/templates/shared/base.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1i9CJcocA0Kv4oesZ37ZxWNHe17" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d82b4a7-037e-4437-960a-d5fc9c5f96ef" name="Default Changelist" comment="" />
+      <created>1601310349721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601310349721</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
