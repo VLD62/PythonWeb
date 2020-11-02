@@ -1,0 +1,29 @@
+{% extends 'shared/site.html' %}
+{% block site_content %}
+<div class="container">
+    <h1>Create Recipe</h1>
+    <div class="items-container">
+        <div class="item">
+            <form method="POST">
+                <label for="{{ form.title.id_for_label }}">Title</label>
+                {{ form.title }}
+                {{ form.title.errors }}
+                <label for="{{ form.image_url.id_for_label }}">Image URL</label>
+                {{ form.image_url }}
+                {{ form.image_url.errors }}
+                <label for="{{ form.description.id_for_label }}">Description</label>
+                {{ form.description }}
+                {{ form.description.errors }}
+                <label for="{{ form.ingredients.id_for_label }}">Ingredients</label>
+                {{ form.ingredients }}
+                {{ form.ingredients.errors }}
+                <label for="{{ form.time.id_for_label }}">Time (Minutes)</label>
+                {{ form.time }}
+                {{ form.time.errors }}
+                {% csrf_token %}
+                <input type="submit" value="Create">
+            </form>
+        </div>
+    </div>
+</div>
+{% endblock %}

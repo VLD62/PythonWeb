@@ -1,0 +1,30 @@
+{% extends 'shared/site.html' %}
+{% block site_content %}
+<div class="container">
+    <h1>Recipe Details</h1>
+    <div class="items-container">
+        <div class="item">
+            <h2>{{ recepie.title }}</h2>
+            <img class="detail-img" src="{{ recepie.image_url }}" alt="recipe-image">
+            <div class="time">
+                <img src="/static/images/clock.png">
+                <p>{{ recepie.time }}min</p>
+            </div>
+            <h3>Ingredients</h3>
+            <ul>
+                {% for ingredient in ingredients_list %}
+                <li>{{ ingredient }}</li>
+                {% endfor %}
+            </ul>
+            <h3>How to prepare?</h3>
+            <div class="recipe-info-full">
+                {{ recepie.description }}
+            </div>
+            <div class="buttons-container">
+                <a class="button edit" href="{% url 'edit recepie' recepie.id %}">Edit</a>
+                <a class="button delete" href="{% url 'delete recepie' recepie.id %}">Delete</a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
